@@ -10,3 +10,4 @@
 /dataSources.local.xml
 # 忽略 Maven 编译输出
 /target/
+/.idea/
